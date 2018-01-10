@@ -78,6 +78,33 @@ h4{
     text-align: center;
 }
 
+/* Works -------------------------- */
+
+.works{
+    background-color: #F4F4F4;
+    padding: 72px 0;
+    text-align: center;
+}
+
+.works-container{
+    width: 1024px;
+    margin: 0 auto;  /*上下0 左右autp */
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+h5{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 5px;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+    color:#000000;
+    display: inline-block;
+    border-bottom: solid 2px #303030 ;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
 
 /* Footer -------------------------- */
